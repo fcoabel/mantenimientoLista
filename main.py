@@ -35,7 +35,6 @@ def bajas():
                 print("¡Articulo borrado!")
 
 
-
 def mod():
     dicMod = None
     cont = 2
