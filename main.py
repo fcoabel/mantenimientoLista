@@ -1,7 +1,6 @@
 lista = []
 
 
-# bien
 def altas():
     dic = {
         "Cod_Articulo": "",
@@ -64,7 +63,6 @@ def mod():
                 dicMod["Precio"] = precio
 
 
-# bien
 def bus():
     cont = 2
     while cont != 0:
@@ -78,7 +76,6 @@ def bus():
                 print("\n")
 
 
-# bien
 def listar():
     for i in lista:
         strDic(i)
@@ -96,12 +93,6 @@ def instrucciones():
         "Pulse 4 para las busquedas.\n"
         "Pulse 5 para listar los datos.\n"
     )
-
-
-# def subMenu():
-#     cont = 2
-#     while cont != 0:
-#         cont = int(input())
 
 
 def strDic(x):
