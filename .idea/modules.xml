@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../2/Sistemas_Gestion_Empresarial/Ej_Serializacion/.idea/Ej_Serializacion.iml" filepath="$PROJECT_DIR$/../../../2/Sistemas_Gestion_Empresarial/Ej_Serializacion/.idea/Ej_Serializacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mantenimientoLista.iml" filepath="$PROJECT_DIR$/.idea/mantenimientoLista.iml" />
     </modules>
   </component>
